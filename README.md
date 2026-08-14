@@ -1,1 +1,1 @@
-# Intelig-ncia_Artificial_2026-2
+# Inteligencia_Artificial_2026-2
