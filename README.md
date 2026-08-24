@@ -1,6 +1,6 @@
 # Inteligência Artificial 2026-2
 
-Repositório de atividades da disciplina **Inteligência Artificial**. Aqui ficam reunidos os exercícios práticos em Python desenvolvidos ao longo do curso, com o objetivo de fixar lógica de programação e conceitos de IA (manipulação de dados, algoritmos, estruturas de decisão, etc.).
+Repositório de atividades da disciplina **Inteligência Artificial**. Aqui ficam reunidos os exercícios práticos em Python desenvolvidos ao longo do curso, com o objetivo de fixar lógica de programação e conceitos de IA.
 
 - **Nome:** Gustavo Pereira Prado
 - **Turma:** 6º A
@@ -8,30 +8,24 @@ Repositório de atividades da disciplina **Inteligência Artificial**. Aqui fica
 
 ## Estrutura do repositório
 
-| Arquivo | Descrição |
+| Arquivo/Pasta | Descrição |
 |---|---|
-| `Exercícios_Python_GustavoPereiraPrado_2026_02_6ºA.ipynb` | Notebook Jupyter/Google Colab com a lista de exercícios de lógica de programação. |
+| `exercicios/` | Notebooks Jupyter/Google Colab com os exercícios práticos desenvolvidos ao longo do semestre. |
 | `README.md` | Este arquivo, com a descrição do repositório. |
 | `.gitignore` | Arquivos e pastas ignorados pelo controle de versão. |
 
-## Sobre o notebook
-
-O notebook foi criado e é mantido no **Google Colab**, e reúne **50 exercícios** de Python (numerados de 01 a 50), cobrindo desde conceitos básicos até algoritmos um pouco mais elaborados. Cada exercício segue o mesmo padrão:
-
-1. **Enunciado** com a descrição do problema;
-2. **Código-solução** comentado linha a linha;
-3. **Explicação** detalhando o raciocínio e os comandos utilizados na resolução.
-
-### Temas abordados
+## Temas abordados
 
 - **Fundamentos:** entrada/saída de dados, variáveis, operadores
 - **Estruturas condicionais e de repetição:** `if/elif/else`, `for`, `while`
 - **Manipulação de strings:** inversão, contagem de caracteres/vogais/palavras, palíndromos, anagramas
-- **Listas e dicionários:** ordenação, soma, média, desvio padrão, remoção de duplicatas, classificação de números
-- **Matemática e algoritmos clássicos:** fatorial, Fibonacci, números primos, FizzBuzz, busca binária, bubble sort
-- **Jogos simples:** jogo de adivinhação, jogo da forca, jogo da velha, jogo de dados
-- **Geração de dados aleatórios:** gerador de senhas, sorteio de números com o módulo `random`
+- **Listas e dicionários:** ordenação, soma, média, remoção de duplicatas, classificação de números
+- **Algoritmos clássicos:** fatorial, Fibonacci, números primos, busca binária, bubble sort
+- **NumPy:** arrays, operações vetoriais e matriciais
+- **Pandas:** manipulação e análise de dados tabulares
+- **Matplotlib:** visualização e plotagem de gráficos
+- **SciPy:** funções científicas e estatísticas
 
 ## Como executar
 
-Abra o arquivo `.ipynb` diretamente no [Google Colab](https://colab.research.google.com/drive/1V4y3oUm0d8IYDMQ3_kh-KoLlEWGsVyUx?usp=sharing) ou no Jupyter Notebook local.
+Abra os notebooks da pasta `exercicios/` diretamente no [Google Colab](https://colab.research.google.com/) ou no Jupyter Notebook local.
